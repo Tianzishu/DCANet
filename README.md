@@ -3,11 +3,9 @@
 
 ## Algorithm Introduction
 
-Dense Nested Attention Network for Infrared Small Target Detection, Boyang Li, Chao Xiao, Longguang Wang, and Yingqian Wang, arxiv 2021 [[Paper]](https://arxiv.org/pdf/2106.00487.pdf)
-
 We propose a dense convolutional attention network (DCANet) to achieve accurate single-frame infrared small target detection in this paper. Experiments on both public (e.g., NUAA-SIRST, NUST-SIRST) demonstrate the effectiveness of our method. The contribution of this paper are as follows:
 
-1. We propose a dense nested attention network (namely, DCANet) to maintain small targets in deep layers.
+1. We propose a dense convolutional attention network (DCANet) to maintain small targets in deep layers.
 
 2. Performing well on all existing SIRST datasets.
 
