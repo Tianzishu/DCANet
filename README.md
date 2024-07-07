@@ -94,10 +94,14 @@ python test_and_visulization.py --base_size 256 --crop_size 256 --st_model [trai
 
 ## Referrences
 
-1. B. Li, C. Xiao, L. Wang, Y. Wang, Z. Lin, M. Li, W. An, Y. Guo, Dense nested attention network for infrared small target detection, IEEE Transactions on Image Processing 32 (2023) 1745-1758.[[code]](https://github.com/YeRen123455/Infrared-Small-Target-Detection) 
+1. Dai Y, Wu Y, Zhou F, et al. Asymmetric contextual modulation for infrared small target detection[C]//Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision. 2021: 950-959. [[code]](https://github.com/YimianDai/open-acm)
 
-2.Y. Dai, Y. Wu, F. Zhou, K. Barnard, Asymmetric contextual modulation for infrared small target detection, in: 2021 IEEE Winter Conference on Applications of Computer Vision (WACV), IEEE, 2021.[[code]](https://github.com/YeRen123455/Infrared-Small-Target-Detection) 
+2. Y. Dai, Y. Wu, F. Zhou, K. Barnard, Attentional local contrast networks for infrared small target detection, IEEE Transactions on Geoscience and Remote Sensing 59 (11) (2021) 9813–9824.
 
+3. M. Zhang, R. Zhang, Y. Yang, H. Bai, J. Zhang, J. Guo, Isnet: Shape matters for infrared small target detection, in: 2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), IEEE, 2022.
 
+4. F. I. Diakogiannis, F. Waldner, P. Caccetta, C. Wu, ResUNet-a: A deep learning framework for semantic segmentation of remotely sensed data, ISPRS Journal of Photogrammetry and Remote Sensing 162 (2020) 94–114.
 
+5. T. Zhang, L. Li, S. Cao, T. Pu, Z. Peng, Attention-guided pyramid context networks for detecting infrared small target under complex background, IEEE Transactions on Aerospace and Electronic Systems 59 (4) (2023) 42504261.
 
+6. B. Li, C. Xiao, L. Wang, Y. Wang, Z. Lin, M. Li, W. An, Y. Guo, Dense nested attention network for infrared small target detection, IEEE Transactions on Image Processing 32 (2023) 1745-1758.[[code]](https://github.com/YeRen123455/Infrared-Small-Target-Detection) 
