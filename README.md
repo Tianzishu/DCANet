@@ -36,7 +36,6 @@ We propose a dense convolutional attention network (DCANet) to achieve accurate 
 
 
 ## 🔥🔥Ablation Study (DCIM) Model Zoo
-
 ![outline](variations.png)
 | **Model**  | **chekcpoint**  **(NUDT-SIRST)**   | **chekcpoint**  **(NUAA-SIRST)** |**chekcpoint** **(IRSTD-1K)** |**chekcpoint** **(ISTDD)** |**status** |
 |------------|------------------------------------|------------------------------------|------------------------------------|------------------------------------|-------------|
@@ -58,6 +57,7 @@ We propose a dense convolutional attention network (DCANet) to achieve accurate 
 
 
 ## 🔥🔥 Compared with DCIM & DNIM Model Zoo
+![outline](dcim_dnim.png)
 | **Methods**  | **Structure** | **Attention**  | **chekcpoint**  **(NUDT-SIRST)**   | **chekcpoint**  **(NUAA-SIRST)** |**chekcpoint** **(IRSTD-1K)** |**chekcpoint** **(ISTDD)** |**status** |
 |------------|------------|------------|------------------------------------|------------------------------------|------------------------------------|------------------------------------|-------------|
 | **DNANet**           | **DNIM**| **CSAM** |[GoogleDrive]()| [GoogleDrive]()| [GoogleDrive]()| [GoogleDrive]()|Grad Cam| 
@@ -93,6 +93,8 @@ python test_and_visulization.py --base_size 256 --crop_size 256 --st_model [trai
 ## Referrences
 
 1. B. Li, C. Xiao, L. Wang, Y. Wang, Z. Lin, M. Li, W. An, Y. Guo, Dense nested attention network for infrared small target detection, IEEE Transactions on Image Processing 32 (2023) 1745-1758.[[code]](https://github.com/YeRen123455/Infrared-Small-Target-Detection) 
+
+2.Y. Dai, Y. Wu, F. Zhou, K. Barnard, Asymmetric contextual modulation for infrared small target detection, in: 2021 IEEE Winter Conference on Applications of Computer Vision (WACV), IEEE, 2021.[[code]](https://github.com/YeRen123455/Infrared-Small-Target-Detection) 
 
 
 
