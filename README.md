@@ -26,7 +26,7 @@ We propose a dense convolutional attention network (DCANet) to achieve accurate 
 
 
 ## 🔥 Model Zoo
-| **Model**  | **chekcpoint** **(NUDT-SIRST)**    |      **chekcpoint** **(NUAA-SIRST)** |**chekcpoint** **(IRSTD-1K)** |**chekcpoint** **(ISTDD)** |**status** |
+| **Model**  | **chekcpoint**  **(NUDT-SIRST)**   | **chekcpoint**  **(NUAA-SIRST)** |**chekcpoint** **(IRSTD-1K)** |**chekcpoint** **(ISTDD)** |**status** |
 |------------|------------------------------------|------------------------------------|------------------------------------|------------------------------------|-------------|
 | **ACM**  | [GoogleDrive](https://drive.google.com/file/d/1O2-m3WysVbFH9OgRVCXBAjIjeVhriApQ/view?usp=drive_link)    | [GoogleDrive](https://drive.google.com/file/d/1u_wXLIf1Nvn5cuwyQ0hmksO_t7KTgnkw/view?usp=drive_link) | [GoogleDrive](https://drive.google.com/file/d/10azZI5GZv60tHxOyGWD6nbE2AnvD1kVn/view?usp=drive_link)| [GoogleDrive](https://drive.google.com/file/d/1dTLjaRjuKAgweqSqTHXQVWlV8cniPhfL/view?usp=drive_link) | Released |
 | **ALCNet**  | [GoogleDrive](https://drive.google.com/file/d/1MXnVj2mBs-StBg6IhCwXPFE7W-Y0y_b7/view?usp=drive_link) | [GoogleDrive](https://drive.google.com/file/d/1D3eGs0PsMem51DKznj4oMOnpzHc0CO8Y/view?usp=drive_link) | [GoogleDrive](https://drive.google.com/file/d/1MDln9MDtN1d9jlEkR-Gbn5gCs3xIDd3S/view?usp=drive_link)| [GoogleDrive](https://drive.google.com/file/d/1JwEYFTlrugEGdpBesSRUXgUY0cBSgMXS/view?usp=drive_link) | Released |
