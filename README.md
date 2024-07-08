@@ -24,7 +24,6 @@ We propose a dense convolutional attention network (DCANet) to achieve accurate 
 
 * **ISTDD** &nbsp;  download from [Google Drive](https://drive.google.com/file/d/13hhEwYHU19oxanXYf-wUpZ7JtiwY8LuT/view?usp=sharing) or [BaiduYun Drive](https://pan.baidu.com/s/1c35pADjPhkAcLwmU-u0RBA) with code `ojd4`.
 
-* To better visually demonstrate the role of each node in our model and the characteristics of the DCIM structure, we have trained a large number of models with all gradient values included (status set to Grad CAM). Therefore, the checkpoint of the Grad CAM version of the model is relatively large.
 
 ## 🔥 Model Zoo
 ![outline](all_model.png)
@@ -69,6 +68,7 @@ We propose a dense convolutional attention network (DCANet) to achieve accurate 
 | **DCANet (CSAM)**    | **DCIM**| **CSAM** |[GoogleDrive]()| [GoogleDrive]()| [GoogleDrive]()| [GoogleDrive]()|Grad Cam| 
 | **DCANet**           | **DCIM**| **SimAM**|[GoogleDrive](https://drive.google.com/file/d/1zzx4PaD8-4_Lh_qNhuxOTip-71_5bFxe/view?usp=drive_link)| [GoogleDrive](https://drive.google.com/file/d/1-UDc9Tb6fK17JeAEfjCwIpfJeDZPXSXQ/view?usp=drive_link)| [GoogleDrive](https://drive.google.com/file/d/1-ZDGyKg0LFlYrOmUnmRSUeheawNMp3u0/view?usp=drive_link)| [GoogleDrive](https://drive.google.com/file/d/1-zmzemVa64AvRzP8O3PtXIIXg6JXm6Vy/view?usp=drive_link)|Grad Cam| 
 
+* To better visually demonstrate the role of each node in our model and the characteristics of the DCIM structure, we have trained a large number of models with all gradient values included (status set to Grad CAM). Therefore, the checkpoint of the Grad CAM version of the model is relatively large.
 
 ## Usage
 
